@@ -1,0 +1,10 @@
+proxies:
+ 
+- {"name":"DE_1358","server":"s.freebi.cf","port":443,"type":"trojan","password":"a","skip-cert-verify":true,"udp":true}
+- {"name":"FR_2098","server":"45.89.174.103","port":36133,"type":"trojan","password":"I1Ni1nY206eFBOVGVSeERCM3UyQVNmR21SajVWN0dW","skip-cert-verify":true,"udp":true}
+- {"name":"KR_2972","server":"www.ssd1234.club","port":443,"type":"trojan","password":"123","skip-cert-verify":true,"udp":true}
+- {"name":"RU_3398","server":"www.bing2333.top","port":443,"type":"trojan","password":"bing2333","skip-cert-verify":true,"udp":true}
+- {"name":"SG_3725","server":"139.162.15.45","port":8097,"type":"trojan","password":"RMEQ","skip-cert-verify":true,"udp":true}
+- {"name":"TW_3763","server":"223.wandu.buzz","port":443,"type":"trojan","password":"CUUrPNEB","skip-cert-verify":true,"udp":true}
+- {"name":"US_4671","server":"los.crosserr.ga","port":443,"type":"trojan","password":"trojanvpn","skip-cert-verify":true,"udp":true}
+- {"name":"US_4672","server":"104.148.30.87","port":36133,"type":"trojan","password":"3UyQVNmR21SajVWN0dW","skip-cert-verify":true,"udp":true}
